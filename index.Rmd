@@ -1,0 +1,12 @@
+---
+title: "Week 23 Tidy Tutorial - GitHub"
+author: "Marco Sigala"
+date: "3/9/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is my first GitHub page doc! I am very excited!
